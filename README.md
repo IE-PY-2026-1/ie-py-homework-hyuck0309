@@ -160,6 +160,7 @@
      * **해결: try-except 구문을 적용하여 오류 발생 시 다시 입력받도록 수정하였습니다.** .
 
 ### **📁 증빙 자료:**
-  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [4차_AI협업캡처.pdf](https://github.com/user-attachments/files/28909244/4._AI.pdf)
+
   * [4차과제_실행결과.jpg]
 <br>
