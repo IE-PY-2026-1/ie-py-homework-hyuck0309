@@ -1,3 +1,5 @@
+[4차과제_실행결과.pdf](https://github.com/user-attachments/files/28909629/4._.pdf)
+[4차과제_실행결과.pdf](https://github.com/user-attachments/files/28909628/4._.pdf)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qR-atX5d)
 # 🐍 [2026-01] 나만의 파이썬 소프트웨어 개발 프로젝트
 
@@ -162,5 +164,6 @@
 ### **📁 증빙 자료:**
   * [4차_AI협업캡처.pdf](https://github.com/user-attachments/files/28909244/4._AI.pdf)
 
-  * [4차과제_실행결과.jpg]
+  * [4차과제_실행결과.pdf](https://github.com/user-attachments/files/28909630/4._.pdf)
+
 <br>
